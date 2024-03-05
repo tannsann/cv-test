@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Compiled Python files
+*.pyc
+
+# macOS metadata
+.DS_Store
+
+# Linux/Mac system files
+*.swp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python log files
+*.log
+
+# Ignore data directory
+
+# Ignore any secrets or sensitive information files
+secret/
